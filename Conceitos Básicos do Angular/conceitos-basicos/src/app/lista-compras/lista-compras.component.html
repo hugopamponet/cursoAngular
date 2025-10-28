@@ -16,8 +16,8 @@
             @for (elemento of lista; track elemento.id) {
                 <tr>
                     <td>{{elemento.id}}</td>
-                    <td>{{elemento.nome}}</td>
-                    <td><input type="checkbox"></td>
+                    <td><span [ngClass]="{ 'item-riscado' : elemento.comprado }">{{elemento.nome}}</span></td>
+                    <td><input type="checkbox" (click)="riscarItem(elemento)" [checked]="elemento.comprado"></td>
                     <td></td>
                 </tr>
             }@empty {
