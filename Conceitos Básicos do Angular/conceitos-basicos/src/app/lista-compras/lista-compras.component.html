@@ -2,6 +2,7 @@
     <form #frm="ngForm" class="add-item-form" (ngSubmit)="adicionarItem()">
         <input type="text" name="item" id="item" [(ngModel)]="item" placeholder="Digite o item da compra">
         <button type="submit">Adicionar</button>
+        <button type="button" (click)="limparLista()">Limpar</button>
     </form>
     <table>
         <thead>
