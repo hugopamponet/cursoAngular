@@ -1,7 +1,7 @@
 # Curso na Udemy de Angular
 
 # Conceitos abordados:
-## Seção 1: Introdução
+## Seção 01: Introdução
 - Introdução
 - Importante: instruções, recomendações e códigos donte dos projetos
 - Instalação do Node JS
@@ -9,7 +9,7 @@
 - Instalação do Visual Studio Code(VS Code)
 - Temas e extensão do Angular para VS Code
 
-## Seção 2: Conceitos Básicos do Angular
+## Seção 02: Conceitos Básicos do Angular
 - O que será abordado no curso
 - Criando um projeto Angular
 - Conhecendo a estrutura de um projeto Angular
@@ -25,3 +25,6 @@
 - Trabalhando com classe de modelo e Arrays
 - Utilizando o @for e o ngFor para renderizar componentes de lista
 - Lógica de riscar itens e classe css dinamica no componente
+
+## Seção 03: Criando um sistema de Cadastro do Zero com Angular Material
+- O que será abordado neste módulo
