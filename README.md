@@ -14,3 +14,14 @@
 - Criando um projeto Angular
 - Conhecendo a estrutura de um projeto Angular
 - Criando o primeiro Component
+- Criando componentes através da CLI
+- Criando uma Calculadora
+- Adicionando ação no componente
+- Capturando valores de formulário utilizando o módulo de Forms do Angular
+- Trabalhando com submit de formulário
+- Renderização condicional com IF
+- Criando o componente de Lista de compras
+- Formulario de adição de itens
+- Trabalhando com classe de modelo e Arrays
+- Utilizando o @for e o ngFor para renderizar componentes de lista
+- Lógica de riscar itens e classe css dinamica no componente
