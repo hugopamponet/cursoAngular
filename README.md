@@ -28,3 +28,5 @@
 
 ## Seção 03: Criando um sistema de Cadastro do Zero com Angular Material
 - O que será abordado neste módulo
+- Criação do projeto Angular
+- Conhecendo e adicionando o Angular Material no Projeto
